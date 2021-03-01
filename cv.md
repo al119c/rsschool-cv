@@ -41,7 +41,9 @@ function countCats(matrix) {
 
 ---
 
-### Experiens:
+### Experience:
+
+ * no work experience
 
 ---
 
