@@ -10,9 +10,8 @@ body {
     margin: 0 auto;
     display: flex;
     max-width: 700px;
-    background-color:rgb(255, 255, 255)
+    background-color: rgb(255, 255, 255)
 }
-
 
 #left {
     margin: 0 auto;
@@ -25,14 +24,13 @@ body {
 #photo {
     width: 90%;
     padding-left: 5%;
-    
+
 }
 
 .list {
     border-bottom: 1px solid rgb(255, 255, 255);
     text-align: center;
 }
-
 
 #contact-list {
     padding-left: 10%;
@@ -53,14 +51,13 @@ body {
 }
 
 .list-link:hover {
-    text-decoration: underline; 
+    text-decoration: underline;
 }
 
 .contact-icon {
     margin-top: 5px;
     width: 15px;
 }
-
 
 #skill-list {
     padding-left: 20%;
@@ -74,16 +71,14 @@ body {
     text-align: start;
 }
 
-
 #right {
     width: 70%;
     padding-left: 5%;
     padding-right: 5%;
     text-align: left;
     min-width: 200px;
-    color:rgb(66, 66, 66);
+    color: rgb(66, 66, 66);
 }
-
 
 #name {
     padding-top: 10%;
@@ -92,15 +87,14 @@ body {
     line-height: 1;
 }
 
-
 #speciality {
-    display:grid;
+    display: grid;
     margin-top: 3%;
     text-align: end;
     font-size: 15pt;
 }
 
-#clarification{
+#clarification {
     font-size: 7pt;
     text-decoration: overline;
 }
@@ -113,7 +107,6 @@ body {
 #education {
     margin-top: 10%;
 }
-
 
 #experiense {
     margin-top: 10%;
